@@ -1,0 +1,23 @@
+{
+  "name": "jslesson2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ArthurPetrosov/JSHomework2.git"
+  },
+  "author": "Artur Petrosov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurPetrosov/JSHomework2/issues"
+  },
+  "homepage": "https://github.com/ArthurPetrosov/JSHomework2#readme",
+  "devDependencies": {
+    "cypress": "^13.1.0",
+    "package-lock.json": "^1.0.0"
+  }
+}
